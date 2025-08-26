@@ -70,6 +70,6 @@ Belal Ghonem
 
 📧 Email: belalghonem007@gmail.com
 
-💼 LinkedIn: [Your Profile Link]
+💼 LinkedIn: https://www.linkedin.com/in/belal-ghonem-ba4862264/
 
 🎓 B.Sc. Computer Science, University of Sunderland
