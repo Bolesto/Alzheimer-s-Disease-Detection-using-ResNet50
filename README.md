@@ -35,38 +35,41 @@ Platform: Training and experimentation performed on Google Colab Pro with an NVI
 
 # Results
 Validation Accuracy: >99%
+
 Errors: Misclassified only 12 samples out of 3,784 in the final run.
 
 # Key Insights:
 Preprocessing and class balancing were critical.
+
 Google Colab hardware (A100 GPU) drastically reduced training time.
+
 Future work → testing on more balanced datasets and comparing ResNet50 vs other CNN/INN architectures.
 
 # Repository Structure
 ├── CET313_AI_Assignment_Bi11ca.ipynb   # Jupyter Notebook with full pipeline
+
 ├── CET313_Report.docx                  # Detailed report
+
 ├── README.md                           # Project documentation
-
-# How to Run
-Clone the repo:git clone https://github.com/<your-username>/Alzheimers-Detection-ResNet50.git
-cd Alzheimers-Detection-ResNet50
-Open the Jupyter Notebook in Google Colab or locally.
-Ensure the dataset is downloaded from Kaggle OASIS MRI Dataset (Link: https://www.kaggle.com/datasets/ninadaithal/imagesoasis)
-and paths are updated in the notebook.
-Run all cells to train and evaluate the model.
-
 
 # Tech Stack
 Python
+
 PyTorch
+
 Torchvision
+
 Google Colab Pro
+
 Matplotlib / Seaborn (visualization)
 
 
 # Author
 
 Belal Ghonem
+
 📧 Email: belalghonem007@gmail.com
+
 💼 LinkedIn: [Your Profile Link]
+
 🎓 B.Sc. Computer Science, University of Sunderland
