@@ -45,13 +45,6 @@ Google Colab hardware (A100 GPU) drastically reduced training time.
 
 Future work → testing on more balanced datasets and comparing ResNet50 vs other CNN/INN architectures.
 
-# Repository Structure
-├── CET313_AI_Assignment_Bi11ca.ipynb   # Jupyter Notebook with full pipeline
-
-├── CET313_Report.docx                  # Detailed report
-
-├── README.md                           # Project documentation
-
 # Tech Stack
 Python
 
